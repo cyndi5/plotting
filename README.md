@@ -13,6 +13,7 @@ Plots an Excel spreadsheet and saves the animated plot.
 * pandas
 * numpy
 * matplotlib
+* ffmpeg binary (adjust location in code)
 
 ### Installing
 
